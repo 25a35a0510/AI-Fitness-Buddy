@@ -96,8 +96,7 @@ AI-Fitness-Buddy/
 ├── assets/
 │   ├── logo.png
 │   ├── fitness_banner.png
-│   ├── app_background.png
-│   └── diet.png
+│   └── app_background.png
 │
 └── screenshots/
     ├── home.png
