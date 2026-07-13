@@ -10,7 +10,7 @@ load_dotenv()
 API_KEY = os.getenv("L4DS7Qc9yUqPQ61C0j4YTPdgYJkkVi74AbowGmoBxUns")
 PROJECT_ID = os.getenv("546073c5-30e0-4511-b820-72778ab57cd3")
 URL = os.getenv("URL")
-MODEL_ID = os.getenv("MODEL_ID")
+MODEL_ID = os.getenv("IBM/granite-4-h-small")
 
 credentials = Credentials(
     url=URL,
